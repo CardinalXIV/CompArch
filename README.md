@@ -1,7 +1,7 @@
 # Assembly vs Compiler: Execution Time Benchmarking
 
 ## Project Overview
-This project explores the efficiency of assembly language programming compared to compiler-generated code. The objective is to implement a specific task in both assembly and a high-level language (C) and analyze the execution times of the resulting binaries. The focus is on understanding the trade-offs between manual assembly optimization and compiler efficiency.
+This project explores the efficiency of assembly language programming compared to compiler-generated code. The objective is to test if a number is a prime number in both assembly and a high-level language (C) and analyze the execution times of the 2 files. The focus is on understanding the trade-offs between manual assembly optimization and compiler efficiency.
 
 ## Goals
 - Implement a task in both C and assembly.
