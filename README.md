@@ -96,3 +96,7 @@ Future Improvements
 	•	Experiment with different optimization levels for GCC (e.g., -O1, -O2, -O3) to compare with the assembly implementation.
 	•	Explore using SIMD instructions in assembly for potential further optimizations.
 	•	Expand the task complexity to observe performance differences on larger workloads.
+
+YouTube Links for Demo:
+https://youtu.be/dEn8O0Pf4GA
+https://youtu.be/a8cyenjJedE
