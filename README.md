@@ -26,8 +26,7 @@ This project explores the efficiency of assembly language programming compared t
 1. Compile the C program using GCC:
    ```bash
    gcc -o Q2_c_exec Q2.c
-
-   Here’s the rest of the README with additional steps, also in Markdown format:
+   ```
 
 # Assembly vs Compiler: Execution Time Benchmarking
 
@@ -49,7 +48,6 @@ This project explores the efficiency of assembly language programming compared t
 - **`Q2.c`**: C source file containing the high-level implementation of the task.
 - **`Q2.s` / `Q2asm`**: Assembly file(s) containing the hand-written implementation of the task.
 - **`Q2.exe`**: Compiled executable (either C or assembly).
-- **Other files**: Any supporting materials or data.
 
 ## Compilation and Execution
 
